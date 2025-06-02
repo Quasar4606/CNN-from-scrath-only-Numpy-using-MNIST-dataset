@@ -68,7 +68,7 @@ By the end of this notebook, you will have:
 
 ## Prerequisites & Dependencies
 
-The notebook was developed and tested with **Python 3.8+**. You will need the following Python packages:
+The notebook was developed and tested with **Python 3.12.7**. You will need the following Python packages:
 
 - `numpy` – Numerical computations  
 - `pandas` – Data loading (MNIST CSV)  
